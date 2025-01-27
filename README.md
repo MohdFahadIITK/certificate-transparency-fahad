@@ -5,5 +5,5 @@ This repository will hold the code that helps in :
 - **i. For a website** - 
 - **ii. For a specific Certificate** - 
 
-## 2. If the certificate has valid CA.
+## 2. If the certificate has valid CA and correctness.
 ## 3. Check across the revocation list.
